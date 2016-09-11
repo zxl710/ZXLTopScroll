@@ -7,81 +7,80 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FAE383F21D852EA2003E8725 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE383F11D852EA2003E8725 /* main.m */; };
-		FAE383FD1D852EA2003E8725 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAE383FC1D852EA2003E8725 /* Assets.xcassets */; };
-		FAE384001D852EA3003E8725 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAE383FE1D852EA3003E8725 /* LaunchScreen.storyboard */; };
-		FAE3840B1D852EA3003E8725 /* ________Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE3840A1D852EA3003E8725 /* ________Tests.m */; };
-		FAE384161D852EA3003E8725 /* ________UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE384151D852EA3003E8725 /* ________UITests.m */; };
-		FAE384261D852FEF003E8725 /* UIView+Util.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE384251D852FEF003E8725 /* UIView+Util.m */; };
-		FAE3842C1D853009003E8725 /* zxl_arrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAE384291D853009003E8725 /* zxl_arrow@2x.png */; };
-		FAE3842D1D853009003E8725 /* zxl_arrow@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAE3842A1D853009003E8725 /* zxl_arrow@3x.png */; };
-		FAE384311D853014003E8725 /* ZXLTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE384301D853014003E8725 /* ZXLTitleView.m */; };
-		FAE384361D853025003E8725 /* ZXLTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE384331D853025003E8725 /* ZXLTableViewController.m */; };
-		FAE384371D853025003E8725 /* ZXLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE384351D853025003E8725 /* ZXLViewController.m */; };
-		FAE384391D853046003E8725 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE384381D853046003E8725 /* AppDelegate.m */; };
+		FAE384481D85321A003E8725 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE384471D85321A003E8725 /* main.m */; };
+		FAE384531D85321A003E8725 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAE384521D85321A003E8725 /* Assets.xcassets */; };
+		FAE384561D85321A003E8725 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAE384541D85321A003E8725 /* LaunchScreen.storyboard */; };
+		FAE384611D85321A003E8725 /* ________Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE384601D85321A003E8725 /* ________Tests.m */; };
+		FAE3846C1D85321A003E8725 /* ________UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE3846B1D85321A003E8725 /* ________UITests.m */; };
+		FAE3847E1D853253003E8725 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE384791D853253003E8725 /* AppDelegate.m */; };
+		FAE3847F1D853253003E8725 /* ZXLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE3847B1D853253003E8725 /* ZXLViewController.m */; };
+		FAE384801D853253003E8725 /* ZXLTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE3847D1D853253003E8725 /* ZXLTableViewController.m */; };
+		FAE384841D853261003E8725 /* UIView+Util.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE384831D853261003E8725 /* UIView+Util.m */; };
+		FAE384891D853266003E8725 /* zxl_arrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAE384861D853266003E8725 /* zxl_arrow@2x.png */; };
+		FAE3848A1D853266003E8725 /* zxl_arrow@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAE384871D853266003E8725 /* zxl_arrow@3x.png */; };
+		FAE3848E1D85326C003E8725 /* ZXLTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = FAE3848D1D85326C003E8725 /* ZXLTitleView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		FAE384071D852EA3003E8725 /* PBXContainerItemProxy */ = {
+		FAE3845D1D85321A003E8725 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FAE383E51D852EA2003E8725 /* Project object */;
+			containerPortal = FAE3843B1D85321A003E8725 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = FAE383EC1D852EA2003E8725;
+			remoteGlobalIDString = FAE384421D85321A003E8725;
 			remoteInfo = "仿自选股头部滚动";
 		};
-		FAE384121D852EA3003E8725 /* PBXContainerItemProxy */ = {
+		FAE384681D85321A003E8725 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FAE383E51D852EA2003E8725 /* Project object */;
+			containerPortal = FAE3843B1D85321A003E8725 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = FAE383EC1D852EA2003E8725;
+			remoteGlobalIDString = FAE384421D85321A003E8725;
 			remoteInfo = "仿自选股头部滚动";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		FAE383ED1D852EA2003E8725 /* 仿自选股头部滚动.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "仿自选股头部滚动.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FAE383F11D852EA2003E8725 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FAE383F31D852EA2003E8725 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		FAE383FC1D852EA2003E8725 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FAE383FF1D852EA3003E8725 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FAE384011D852EA3003E8725 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FAE384061D852EA3003E8725 /* 仿自选股头部滚动Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "仿自选股头部滚动Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FAE3840A1D852EA3003E8725 /* ________Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "________Tests.m"; sourceTree = "<group>"; };
-		FAE3840C1D852EA3003E8725 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FAE384111D852EA3003E8725 /* 仿自选股头部滚动UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "仿自选股头部滚动UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FAE384151D852EA3003E8725 /* ________UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "________UITests.m"; sourceTree = "<group>"; };
-		FAE384171D852EA3003E8725 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FAE384241D852FEF003E8725 /* UIView+Util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Util.h"; sourceTree = "<group>"; };
-		FAE384251D852FEF003E8725 /* UIView+Util.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Util.m"; sourceTree = "<group>"; };
-		FAE384271D852FFA003E8725 /* ZXLConstant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXLConstant.h; sourceTree = "<group>"; };
-		FAE384291D853009003E8725 /* zxl_arrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zxl_arrow@2x.png"; sourceTree = "<group>"; };
-		FAE3842A1D853009003E8725 /* zxl_arrow@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zxl_arrow@3x.png"; sourceTree = "<group>"; };
-		FAE3842B1D853009003E8725 /* ZXLConstant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXLConstant.h; sourceTree = "<group>"; };
-		FAE3842F1D853014003E8725 /* ZXLTitleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXLTitleView.h; sourceTree = "<group>"; };
-		FAE384301D853014003E8725 /* ZXLTitleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXLTitleView.m; sourceTree = "<group>"; };
-		FAE384321D853025003E8725 /* ZXLTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXLTableViewController.h; sourceTree = "<group>"; };
-		FAE384331D853025003E8725 /* ZXLTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXLTableViewController.m; sourceTree = "<group>"; };
-		FAE384341D853025003E8725 /* ZXLViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXLViewController.h; sourceTree = "<group>"; };
-		FAE384351D853025003E8725 /* ZXLViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXLViewController.m; sourceTree = "<group>"; };
-		FAE384381D853046003E8725 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FAE384431D85321A003E8725 /* 仿自选股头部滚动.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "仿自选股头部滚动.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAE384471D85321A003E8725 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FAE384491D85321A003E8725 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FAE384521D85321A003E8725 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FAE384551D85321A003E8725 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FAE384571D85321A003E8725 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAE3845C1D85321A003E8725 /* 仿自选股头部滚动Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "仿自选股头部滚动Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAE384601D85321A003E8725 /* ________Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "________Tests.m"; sourceTree = "<group>"; };
+		FAE384621D85321A003E8725 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAE384671D85321A003E8725 /* 仿自选股头部滚动UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "仿自选股头部滚动UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAE3846B1D85321A003E8725 /* ________UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "________UITests.m"; sourceTree = "<group>"; };
+		FAE3846D1D85321A003E8725 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAE384791D853253003E8725 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FAE3847A1D853253003E8725 /* ZXLViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXLViewController.h; sourceTree = "<group>"; };
+		FAE3847B1D853253003E8725 /* ZXLViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXLViewController.m; sourceTree = "<group>"; };
+		FAE3847C1D853253003E8725 /* ZXLTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXLTableViewController.h; sourceTree = "<group>"; };
+		FAE3847D1D853253003E8725 /* ZXLTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXLTableViewController.m; sourceTree = "<group>"; };
+		FAE384821D853261003E8725 /* UIView+Util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Util.h"; sourceTree = "<group>"; };
+		FAE384831D853261003E8725 /* UIView+Util.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Util.m"; sourceTree = "<group>"; };
+		FAE384861D853266003E8725 /* zxl_arrow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zxl_arrow@2x.png"; sourceTree = "<group>"; };
+		FAE384871D853266003E8725 /* zxl_arrow@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zxl_arrow@3x.png"; sourceTree = "<group>"; };
+		FAE384881D853266003E8725 /* ZXLConstant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXLConstant.h; sourceTree = "<group>"; };
+		FAE3848C1D85326C003E8725 /* ZXLTitleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZXLTitleView.h; sourceTree = "<group>"; };
+		FAE3848D1D85326C003E8725 /* ZXLTitleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZXLTitleView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FAE383EA1D852EA2003E8725 /* Frameworks */ = {
+		FAE384401D85321A003E8725 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FAE384031D852EA3003E8725 /* Frameworks */ = {
+		FAE384591D85321A003E8725 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FAE3840E1D852EA3003E8725 /* Frameworks */ = {
+		FAE384641D85321A003E8725 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -91,97 +90,96 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FAE383E41D852EA2003E8725 = {
+		FAE3843A1D85321A003E8725 = {
 			isa = PBXGroup;
 			children = (
-				FAE383EF1D852EA2003E8725 /* 仿自选股头部滚动 */,
-				FAE384091D852EA3003E8725 /* 仿自选股头部滚动Tests */,
-				FAE384141D852EA3003E8725 /* 仿自选股头部滚动UITests */,
-				FAE383EE1D852EA2003E8725 /* Products */,
+				FAE384451D85321A003E8725 /* 仿自选股头部滚动 */,
+				FAE3845F1D85321A003E8725 /* 仿自选股头部滚动Tests */,
+				FAE3846A1D85321A003E8725 /* 仿自选股头部滚动UITests */,
+				FAE384441D85321A003E8725 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FAE383EE1D852EA2003E8725 /* Products */ = {
+		FAE384441D85321A003E8725 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FAE383ED1D852EA2003E8725 /* 仿自选股头部滚动.app */,
-				FAE384061D852EA3003E8725 /* 仿自选股头部滚动Tests.xctest */,
-				FAE384111D852EA3003E8725 /* 仿自选股头部滚动UITests.xctest */,
+				FAE384431D85321A003E8725 /* 仿自选股头部滚动.app */,
+				FAE3845C1D85321A003E8725 /* 仿自选股头部滚动Tests.xctest */,
+				FAE384671D85321A003E8725 /* 仿自选股头部滚动UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FAE383EF1D852EA2003E8725 /* 仿自选股头部滚动 */ = {
+		FAE384451D85321A003E8725 /* 仿自选股头部滚动 */ = {
 			isa = PBXGroup;
 			children = (
-				FAE3842E1D853014003E8725 /* View */,
-				FAE384281D853009003E8725 /* Resource */,
-				FAE384231D852FEF003E8725 /* Category */,
-				FAE383F31D852EA2003E8725 /* AppDelegate.h */,
-				FAE384381D853046003E8725 /* AppDelegate.m */,
-				FAE384321D853025003E8725 /* ZXLTableViewController.h */,
-				FAE384331D853025003E8725 /* ZXLTableViewController.m */,
-				FAE384341D853025003E8725 /* ZXLViewController.h */,
-				FAE384351D853025003E8725 /* ZXLViewController.m */,
-				FAE383FC1D852EA2003E8725 /* Assets.xcassets */,
-				FAE383FE1D852EA3003E8725 /* LaunchScreen.storyboard */,
-				FAE384011D852EA3003E8725 /* Info.plist */,
-				FAE383F01D852EA2003E8725 /* Supporting Files */,
+				FAE384851D853266003E8725 /* Resource */,
+				FAE384811D853261003E8725 /* Category */,
+				FAE384491D85321A003E8725 /* AppDelegate.h */,
+				FAE384791D853253003E8725 /* AppDelegate.m */,
+				FAE3847A1D853253003E8725 /* ZXLViewController.h */,
+				FAE3847B1D853253003E8725 /* ZXLViewController.m */,
+				FAE3847C1D853253003E8725 /* ZXLTableViewController.h */,
+				FAE3847D1D853253003E8725 /* ZXLTableViewController.m */,
+				FAE384521D85321A003E8725 /* Assets.xcassets */,
+				FAE384541D85321A003E8725 /* LaunchScreen.storyboard */,
+				FAE384571D85321A003E8725 /* Info.plist */,
+				FAE384461D85321A003E8725 /* Supporting Files */,
 			);
 			path = "仿自选股头部滚动";
 			sourceTree = "<group>";
 		};
-		FAE383F01D852EA2003E8725 /* Supporting Files */ = {
+		FAE384461D85321A003E8725 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				FAE383F11D852EA2003E8725 /* main.m */,
+				FAE384471D85321A003E8725 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		FAE384091D852EA3003E8725 /* 仿自选股头部滚动Tests */ = {
+		FAE3845F1D85321A003E8725 /* 仿自选股头部滚动Tests */ = {
 			isa = PBXGroup;
 			children = (
-				FAE3840A1D852EA3003E8725 /* ________Tests.m */,
-				FAE3840C1D852EA3003E8725 /* Info.plist */,
+				FAE384601D85321A003E8725 /* ________Tests.m */,
+				FAE384621D85321A003E8725 /* Info.plist */,
 			);
 			path = "仿自选股头部滚动Tests";
 			sourceTree = "<group>";
 		};
-		FAE384141D852EA3003E8725 /* 仿自选股头部滚动UITests */ = {
+		FAE3846A1D85321A003E8725 /* 仿自选股头部滚动UITests */ = {
 			isa = PBXGroup;
 			children = (
-				FAE384151D852EA3003E8725 /* ________UITests.m */,
-				FAE384171D852EA3003E8725 /* Info.plist */,
+				FAE3846B1D85321A003E8725 /* ________UITests.m */,
+				FAE3846D1D85321A003E8725 /* Info.plist */,
 			);
 			path = "仿自选股头部滚动UITests";
 			sourceTree = "<group>";
 		};
-		FAE384231D852FEF003E8725 /* Category */ = {
+		FAE384811D853261003E8725 /* Category */ = {
 			isa = PBXGroup;
 			children = (
-				FAE384271D852FFA003E8725 /* ZXLConstant.h */,
-				FAE384241D852FEF003E8725 /* UIView+Util.h */,
-				FAE384251D852FEF003E8725 /* UIView+Util.m */,
+				FAE3848B1D85326C003E8725 /* View */,
+				FAE384821D853261003E8725 /* UIView+Util.h */,
+				FAE384831D853261003E8725 /* UIView+Util.m */,
 			);
 			path = Category;
 			sourceTree = "<group>";
 		};
-		FAE384281D853009003E8725 /* Resource */ = {
+		FAE384851D853266003E8725 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
-				FAE384291D853009003E8725 /* zxl_arrow@2x.png */,
-				FAE3842A1D853009003E8725 /* zxl_arrow@3x.png */,
-				FAE3842B1D853009003E8725 /* ZXLConstant.h */,
+				FAE384861D853266003E8725 /* zxl_arrow@2x.png */,
+				FAE384871D853266003E8725 /* zxl_arrow@3x.png */,
+				FAE384881D853266003E8725 /* ZXLConstant.h */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
 		};
-		FAE3842E1D853014003E8725 /* View */ = {
+		FAE3848B1D85326C003E8725 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				FAE3842F1D853014003E8725 /* ZXLTitleView.h */,
-				FAE384301D853014003E8725 /* ZXLTitleView.m */,
+				FAE3848C1D85326C003E8725 /* ZXLTitleView.h */,
+				FAE3848D1D85326C003E8725 /* ZXLTitleView.m */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -189,13 +187,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FAE383EC1D852EA2003E8725 /* 仿自选股头部滚动 */ = {
+		FAE384421D85321A003E8725 /* 仿自选股头部滚动 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FAE3841A1D852EA3003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动" */;
+			buildConfigurationList = FAE384701D85321A003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动" */;
 			buildPhases = (
-				FAE383E91D852EA2003E8725 /* Sources */,
-				FAE383EA1D852EA2003E8725 /* Frameworks */,
-				FAE383EB1D852EA2003E8725 /* Resources */,
+				FAE3843F1D85321A003E8725 /* Sources */,
+				FAE384401D85321A003E8725 /* Frameworks */,
+				FAE384411D85321A003E8725 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -203,68 +201,68 @@
 			);
 			name = "仿自选股头部滚动";
 			productName = "仿自选股头部滚动";
-			productReference = FAE383ED1D852EA2003E8725 /* 仿自选股头部滚动.app */;
+			productReference = FAE384431D85321A003E8725 /* 仿自选股头部滚动.app */;
 			productType = "com.apple.product-type.application";
 		};
-		FAE384051D852EA3003E8725 /* 仿自选股头部滚动Tests */ = {
+		FAE3845B1D85321A003E8725 /* 仿自选股头部滚动Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FAE3841D1D852EA3003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动Tests" */;
+			buildConfigurationList = FAE384731D85321A003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动Tests" */;
 			buildPhases = (
-				FAE384021D852EA3003E8725 /* Sources */,
-				FAE384031D852EA3003E8725 /* Frameworks */,
-				FAE384041D852EA3003E8725 /* Resources */,
+				FAE384581D85321A003E8725 /* Sources */,
+				FAE384591D85321A003E8725 /* Frameworks */,
+				FAE3845A1D85321A003E8725 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FAE384081D852EA3003E8725 /* PBXTargetDependency */,
+				FAE3845E1D85321A003E8725 /* PBXTargetDependency */,
 			);
 			name = "仿自选股头部滚动Tests";
 			productName = "仿自选股头部滚动Tests";
-			productReference = FAE384061D852EA3003E8725 /* 仿自选股头部滚动Tests.xctest */;
+			productReference = FAE3845C1D85321A003E8725 /* 仿自选股头部滚动Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		FAE384101D852EA3003E8725 /* 仿自选股头部滚动UITests */ = {
+		FAE384661D85321A003E8725 /* 仿自选股头部滚动UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FAE384201D852EA3003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动UITests" */;
+			buildConfigurationList = FAE384761D85321A003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动UITests" */;
 			buildPhases = (
-				FAE3840D1D852EA3003E8725 /* Sources */,
-				FAE3840E1D852EA3003E8725 /* Frameworks */,
-				FAE3840F1D852EA3003E8725 /* Resources */,
+				FAE384631D85321A003E8725 /* Sources */,
+				FAE384641D85321A003E8725 /* Frameworks */,
+				FAE384651D85321A003E8725 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FAE384131D852EA3003E8725 /* PBXTargetDependency */,
+				FAE384691D85321A003E8725 /* PBXTargetDependency */,
 			);
 			name = "仿自选股头部滚动UITests";
 			productName = "仿自选股头部滚动UITests";
-			productReference = FAE384111D852EA3003E8725 /* 仿自选股头部滚动UITests.xctest */;
+			productReference = FAE384671D85321A003E8725 /* 仿自选股头部滚动UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FAE383E51D852EA2003E8725 /* Project object */ = {
+		FAE3843B1D85321A003E8725 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = "曾晓利";
 				TargetAttributes = {
-					FAE383EC1D852EA2003E8725 = {
+					FAE384421D85321A003E8725 = {
 						CreatedOnToolsVersion = 7.3;
 					};
-					FAE384051D852EA3003E8725 = {
+					FAE3845B1D85321A003E8725 = {
 						CreatedOnToolsVersion = 7.3;
-						TestTargetID = FAE383EC1D852EA2003E8725;
+						TestTargetID = FAE384421D85321A003E8725;
 					};
-					FAE384101D852EA3003E8725 = {
+					FAE384661D85321A003E8725 = {
 						CreatedOnToolsVersion = 7.3;
-						TestTargetID = FAE383EC1D852EA2003E8725;
+						TestTargetID = FAE384421D85321A003E8725;
 					};
 				};
 			};
-			buildConfigurationList = FAE383E81D852EA2003E8725 /* Build configuration list for PBXProject "仿自选股头部滚动" */;
+			buildConfigurationList = FAE3843E1D85321A003E8725 /* Build configuration list for PBXProject "仿自选股头部滚动" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -272,38 +270,38 @@
 				en,
 				Base,
 			);
-			mainGroup = FAE383E41D852EA2003E8725;
-			productRefGroup = FAE383EE1D852EA2003E8725 /* Products */;
+			mainGroup = FAE3843A1D85321A003E8725;
+			productRefGroup = FAE384441D85321A003E8725 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FAE383EC1D852EA2003E8725 /* 仿自选股头部滚动 */,
-				FAE384051D852EA3003E8725 /* 仿自选股头部滚动Tests */,
-				FAE384101D852EA3003E8725 /* 仿自选股头部滚动UITests */,
+				FAE384421D85321A003E8725 /* 仿自选股头部滚动 */,
+				FAE3845B1D85321A003E8725 /* 仿自选股头部滚动Tests */,
+				FAE384661D85321A003E8725 /* 仿自选股头部滚动UITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FAE383EB1D852EA2003E8725 /* Resources */ = {
+		FAE384411D85321A003E8725 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FAE384001D852EA3003E8725 /* LaunchScreen.storyboard in Resources */,
-				FAE3842C1D853009003E8725 /* zxl_arrow@2x.png in Resources */,
-				FAE383FD1D852EA2003E8725 /* Assets.xcassets in Resources */,
-				FAE3842D1D853009003E8725 /* zxl_arrow@3x.png in Resources */,
+				FAE384561D85321A003E8725 /* LaunchScreen.storyboard in Resources */,
+				FAE384891D853266003E8725 /* zxl_arrow@2x.png in Resources */,
+				FAE3848A1D853266003E8725 /* zxl_arrow@3x.png in Resources */,
+				FAE384531D85321A003E8725 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FAE384041D852EA3003E8725 /* Resources */ = {
+		FAE3845A1D85321A003E8725 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FAE3840F1D852EA3003E8725 /* Resources */ = {
+		FAE384651D85321A003E8725 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -313,55 +311,55 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FAE383E91D852EA2003E8725 /* Sources */ = {
+		FAE3843F1D85321A003E8725 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FAE384361D853025003E8725 /* ZXLTableViewController.m in Sources */,
-				FAE384261D852FEF003E8725 /* UIView+Util.m in Sources */,
-				FAE384391D853046003E8725 /* AppDelegate.m in Sources */,
-				FAE383F21D852EA2003E8725 /* main.m in Sources */,
-				FAE384311D853014003E8725 /* ZXLTitleView.m in Sources */,
-				FAE384371D853025003E8725 /* ZXLViewController.m in Sources */,
+				FAE3848E1D85326C003E8725 /* ZXLTitleView.m in Sources */,
+				FAE384841D853261003E8725 /* UIView+Util.m in Sources */,
+				FAE384801D853253003E8725 /* ZXLTableViewController.m in Sources */,
+				FAE3847F1D853253003E8725 /* ZXLViewController.m in Sources */,
+				FAE3847E1D853253003E8725 /* AppDelegate.m in Sources */,
+				FAE384481D85321A003E8725 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FAE384021D852EA3003E8725 /* Sources */ = {
+		FAE384581D85321A003E8725 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FAE3840B1D852EA3003E8725 /* ________Tests.m in Sources */,
+				FAE384611D85321A003E8725 /* ________Tests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FAE3840D1D852EA3003E8725 /* Sources */ = {
+		FAE384631D85321A003E8725 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FAE384161D852EA3003E8725 /* ________UITests.m in Sources */,
+				FAE3846C1D85321A003E8725 /* ________UITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		FAE384081D852EA3003E8725 /* PBXTargetDependency */ = {
+		FAE3845E1D85321A003E8725 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FAE383EC1D852EA2003E8725 /* 仿自选股头部滚动 */;
-			targetProxy = FAE384071D852EA3003E8725 /* PBXContainerItemProxy */;
+			target = FAE384421D85321A003E8725 /* 仿自选股头部滚动 */;
+			targetProxy = FAE3845D1D85321A003E8725 /* PBXContainerItemProxy */;
 		};
-		FAE384131D852EA3003E8725 /* PBXTargetDependency */ = {
+		FAE384691D85321A003E8725 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FAE383EC1D852EA2003E8725 /* 仿自选股头部滚动 */;
-			targetProxy = FAE384121D852EA3003E8725 /* PBXContainerItemProxy */;
+			target = FAE384421D85321A003E8725 /* 仿自选股头部滚动 */;
+			targetProxy = FAE384681D85321A003E8725 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		FAE383FE1D852EA3003E8725 /* LaunchScreen.storyboard */ = {
+		FAE384541D85321A003E8725 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FAE383FF1D852EA3003E8725 /* Base */,
+				FAE384551D85321A003E8725 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -369,7 +367,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FAE384181D852EA3003E8725 /* Debug */ = {
+		FAE3846E1D85321A003E8725 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -414,7 +412,7 @@
 			};
 			name = Debug;
 		};
-		FAE384191D852EA3003E8725 /* Release */ = {
+		FAE3846F1D85321A003E8725 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -453,7 +451,7 @@
 			};
 			name = Release;
 		};
-		FAE3841B1D852EA3003E8725 /* Debug */ = {
+		FAE384711D85321A003E8725 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -464,7 +462,7 @@
 			};
 			name = Debug;
 		};
-		FAE3841C1D852EA3003E8725 /* Release */ = {
+		FAE384721D85321A003E8725 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -475,7 +473,7 @@
 			};
 			name = Release;
 		};
-		FAE3841E1D852EA3003E8725 /* Debug */ = {
+		FAE384741D85321A003E8725 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -487,7 +485,7 @@
 			};
 			name = Debug;
 		};
-		FAE3841F1D852EA3003E8725 /* Release */ = {
+		FAE384751D85321A003E8725 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -499,7 +497,7 @@
 			};
 			name = Release;
 		};
-		FAE384211D852EA3003E8725 /* Debug */ = {
+		FAE384771D85321A003E8725 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = "仿自选股头部滚动UITests/Info.plist";
@@ -510,7 +508,7 @@
 			};
 			name = Debug;
 		};
-		FAE384221D852EA3003E8725 /* Release */ = {
+		FAE384781D85321A003E8725 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = "仿自选股头部滚动UITests/Info.plist";
@@ -524,43 +522,40 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FAE383E81D852EA2003E8725 /* Build configuration list for PBXProject "仿自选股头部滚动" */ = {
+		FAE3843E1D85321A003E8725 /* Build configuration list for PBXProject "仿自选股头部滚动" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FAE384181D852EA3003E8725 /* Debug */,
-				FAE384191D852EA3003E8725 /* Release */,
+				FAE3846E1D85321A003E8725 /* Debug */,
+				FAE3846F1D85321A003E8725 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FAE3841A1D852EA3003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动" */ = {
+		FAE384701D85321A003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FAE3841B1D852EA3003E8725 /* Debug */,
-				FAE3841C1D852EA3003E8725 /* Release */,
+				FAE384711D85321A003E8725 /* Debug */,
+				FAE384721D85321A003E8725 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
-		FAE3841D1D852EA3003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动Tests" */ = {
+		FAE384731D85321A003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FAE3841E1D852EA3003E8725 /* Debug */,
-				FAE3841F1D852EA3003E8725 /* Release */,
+				FAE384741D85321A003E8725 /* Debug */,
+				FAE384751D85321A003E8725 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
-		FAE384201D852EA3003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动UITests" */ = {
+		FAE384761D85321A003E8725 /* Build configuration list for PBXNativeTarget "仿自选股头部滚动UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FAE384211D852EA3003E8725 /* Debug */,
-				FAE384221D852EA3003E8725 /* Release */,
+				FAE384771D85321A003E8725 /* Debug */,
+				FAE384781D85321A003E8725 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FAE383E51D852EA2003E8725 /* Project object */;
+	rootObject = FAE3843B1D85321A003E8725 /* Project object */;
 }

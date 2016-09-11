@@ -29,9 +29,6 @@
     self.view.backgroundColor = [UIColor whiteColor];
     
     [self setUpTitleView];
-    
-    
-    
     [self setUpSubViews];
 }
 
