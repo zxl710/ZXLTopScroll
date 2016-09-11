@@ -1,12 +1,13 @@
 //
 //  AppDelegate.m
-//  仿自选股头部滚动
+//  高仿自选股
 //
-//  Created by macbook on 16/9/11.
+//  Created by macbook on 16/9/10.
 //  Copyright © 2016年 曾晓利. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "ZXLViewController.h"
 
 @interface AppDelegate ()
 
@@ -16,7 +17,11 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    self.window = [[UIWindow alloc]initWithFrame:[[UIScreen mainScreen]bounds]];
+    ZXLViewController *view = [[ZXLViewController alloc]init];
+    UINavigationController *nav = [[UINavigationController alloc]initWithRootViewController:view];
+    self.window.rootViewController = nav;
+    [self.window makeKeyAndVisible];
     return YES;
 }
 
